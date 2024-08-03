@@ -1,6 +1,6 @@
 
   <body>
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+<h1 align="center">🔥 SHAHZADA 🔥</h1>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
